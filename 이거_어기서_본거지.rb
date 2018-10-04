@@ -17,6 +17,7 @@ def hello(names)
 end
 
 rubies = ['yashajinai', 'hinatsuruai', 'soraginko']
+#용왕은 최고야!!!!!
 #변수명 = 식
 
 hello(rubies)
